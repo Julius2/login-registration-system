@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_User" value="name:User_id;datatype:int,name:FirstName;datatype:string,name:LastName;datatype:string,name:Email;datatype:string,name:UserName;datatype:string,name:Password;datatype:string,name:Timestamp;datatype:timestamp,name:UserLevel;datatype:int" />
+	<infoitem key="UD_ManageUsers" value="name:User_id;datatype:int,name:FirstName;datatype:string,name:LastName;datatype:string,name:Email;datatype:string,name:UserName;datatype:string,name:Password;datatype:string,name:Timestamp;datatype:timestamp,name:UserLevel;datatype:int" />
+	<infoitem key="UD_manageusers" value="name:User_id;datatype:int,name:FirstName;datatype:string,name:LastName;datatype:string,name:Email;datatype:string,name:UserName;datatype:string,name:Password;datatype:string,name:Timestamp;datatype:timestamp,name:UserLevel;datatype:int" />
+</info>

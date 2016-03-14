@@ -1,0 +1,82 @@
+body{
+	 margin:0;
+	 padding:0;
+}
+#Holder{
+	width:980px;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:21px;
+	margin-bottom:21px;
+}
+#Header{
+	height:70px;
+	background-image:
+url(../images/logo.jpg);
+background-repeat:no-repeat;
+margin-bottom:11px;
+}
+#Navbar{
+	height:60px;
+	background-color:#003;
+}
+#Content{
+	height:auto;
+	clear:both;
+	overflow:auto;
+	}
+#ContentLeft{
+	width::280px;
+	float:left;
+}
+#ContentRight{
+	width:680px;
+	float:right;
+}
+		
+#PageHeading{
+	height:auto;
+	paddding:11px;
+} 
+#ContentLeft{
+	width:280px;
+	float:left;
+	padding-top:11px;
+	padding-left:11px;
+}
+#ContentRight{
+	width:680px;
+	float:right;
+} 
+#Footer{
+	height:100px;
+}
+h1{
+	margin:0;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#666;
+	font-weight:lighter;
+}
+h2{
+	margin:0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:lighter;
+	#999;
+}
+h6{
+	margin:0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:lighter;
+	font-size:14px;
+	#333;
+}
+.StyleTextField{
+	border:1px solid #666;
+	border-radius:6px;
+	width:200px;
+	height:35px;
+}
+
+	
+	
